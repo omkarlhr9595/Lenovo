@@ -527,6 +527,7 @@ body {
 .trackbox {
   background: rgb(54, 59, 65);
   border: solid 1px black;
+  border-radius: 4px;
   margin-top: 0.4em;
   margin-left: 7em;
   width: 11em;
